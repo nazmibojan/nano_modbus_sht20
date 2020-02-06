@@ -1,0 +1,1 @@
+Read temperature and humidity sensor from SHT20 using SoftwareSerial. SHT20 Sensor has communication method via MODBUS RTU with RS485 in physical layer. This project needs RS485 to USB TTL to convert data from SHT20.
